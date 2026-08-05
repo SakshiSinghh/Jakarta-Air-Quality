@@ -8,7 +8,7 @@ import pandas as pd
 import streamlit as st
 
 FEATURE_LABELS = {
-    "pm10": "PM10",
+    "pm10": "PM₁₀",
     "so2": "SO₂",
     "co": "CO",
     "o3": "O₃",
